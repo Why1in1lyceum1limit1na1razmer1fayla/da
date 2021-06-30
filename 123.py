@@ -71,5 +71,5 @@ def chebupelina(imgn):
 q = glob('withBears/*.jpg')
 print(len(q))
 for i in q:
-    chebupelina("withBears/_2016-05-12 14-20-10_2145_2R.JPG")
+    chebupelina(i)
     break
