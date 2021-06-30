@@ -72,4 +72,3 @@ q = glob('withBears/*.jpg')
 print(len(q))
 for i in q:
     chebupelina(i)
-    break
